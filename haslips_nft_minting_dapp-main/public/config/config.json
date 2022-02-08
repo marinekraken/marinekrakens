@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd70505c54e4C76e2bf32125Da0984F73Fc90D127",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd70505c54e4C76e2bf32125Da0984F73Fc90D127",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Marine Krakens",
+  "SYMBOL": "MK",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/marine-krakens",
+  "SHOW_BACKGROUND": true
+}
